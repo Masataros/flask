@@ -14,7 +14,7 @@ import os
 app = Flask(__name__)
 
 #LINE Access Token
-YOUR_CHANNEL_ACCESS_TOKEN = os.environ["VvZgXvOXplbiNNWVYX7I3P7XM81vOiMM25D8GqewH2CaKVhqrIgM0fytVVK+FYJWvJVVHE4hfIKdCaXt0yG7i7vpnF6b2W0vsLNOVWOG7T46zbqxMmbT5NWRHb/BzlGwR1tpz9h9kys/HXYgiVuasgdB04t89/1O/w1cDnyilFU="]
+YOUR_CHANNEL_ACCESS_TOKEN = os.environ["hBtiZmLz7j5H7ZIsVKI8jiKurii+LiJ7qO2ixqF5B6Z9VtHNmpr5F32iBxSbnCNJvJVVHE4hfIKdCaXt0yG7i7vpnF6b2W0vsLNOVWOG7T7GaeV0ll9yrSbu92mw/SlgFsqQb4W+6+Ovr/h0JNsU0gdB04t89/1O/w1cDnyilFU="]
 #LINE Channel Secret
 YOUR_CHANNEL_SECRET = os.environ["7fe7567dd5de6e41182f68b81aeeea02"]
 
