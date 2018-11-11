@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+{% block content %}
+<h3>一覧</h3>
+<ul>
+{% for lost in lost %}
+    <li>{{ lost.obj}} : {{ lost.time }}</li>
+{% endfor %}
+</ul>
+{% endblock %}
